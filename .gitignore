@@ -1,0 +1,38 @@
+# Maven
+/.mvn/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# IDEs
+.settings/
+.classpath
+.project
+.vscode/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Outros
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.tar
+
+# Arquivos do Windows
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Arquivos de backup
+*~ 
+*.bak
